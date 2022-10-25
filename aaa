@@ -1,0 +1,75 @@
+<section class="portfolio section-padding pb-70" data-scroll-index="3">
+            
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8 col-md-10">
+                        <div class="sec-head  text-center">
+                            <h6 class="wow fadeIn" data-wow-delay=".5s">Product and Service</h6>
+                            <h3 class="wow color-font"> Seal Ring & <br> Nexus.</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+
+                    <!-- filter links -->
+                    <div class="filtering col-12">
+                        <div class="filter wow fadeIn" data-wow-delay=".5s">
+                            <span data-filter='*' class="active">All</span>
+                            <span data-filter='.Ring'>Seal Ring</span>
+                            <span data-filter='.Nexus'>Nexus</span>
+                        </div>
+                    </div>
+
+                    <!-- gallery -->
+                    <div class="gallery full-width">
+
+                        <!-- gallery item -->
+                        <div class="col-md-6 items graphic lg-mr wow fadeInUp" data-wow-delay=".4s">
+                            <div class="item-img">
+                                <a href="project-details2.html" class="imago wow">
+                                    <img src="img/portfolio/portfolio/1/1.jpg" alt="image">
+                                    <div class="item-img-overlay"></div>
+                                </a>
+                            </div>
+                            <div class="cont">
+                                <span class="tags"><a href="#0">Design</a>, <a href="#0">WordPress</a></span>
+                                <h6>Creativity Demand</h6>
+                            </div>
+                        </div>
+
+                        <!-- gallery item -->
+                        <div class="col-md-6 items Ring wow fadeInUp" data-wow-delay=".4s">
+                            <div class="item-img">
+                                <a href="project-details2.html" class="imago wow">
+                                    <img src="img/portfolio/portfolio/1/2.jpg" alt="image">
+                                    <div class="item-img-overlay"></div>
+                                </a>
+                            </div>
+                            <div class="cont">
+                                <span class="tags"><a href="#0">Design</a>, <a href="#0">WordPress</a></span>
+                                <h6>Through The Breaking</h6>
+                            </div>
+                        </div>
+
+                        <!-- gallery item -->
+                        <div class="col-md-6 items Nexus wow fadeInUp" data-wow-delay=".4s">
+                            <div class="item-img">
+                                <a href="project-details2.html" class="imago wow">
+                                    <img src="img/portfolio/portfolio/1/4.jpg" alt="image">
+                                    <div class="item-img-overlay"></div>
+                                </a>
+                            </div>
+                            <div class="cont">
+                                <span class="tags"><a href="#0">Design</a>, <a href="#0">WordPress</a></span>
+                                <h6>Through The Breaking</h6>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                </div>
+            </div>
+        </section>
