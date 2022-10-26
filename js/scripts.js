@@ -630,7 +630,7 @@ $(window).on("load", function () {
     new simpleParallax(imageDown, {
         orientation: 'down',
         delay: 1,
-        scale: 1.1
+        scale: 1.5
     });
 
 
