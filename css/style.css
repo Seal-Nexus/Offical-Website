@@ -137,6 +137,10 @@ span:hover {
   text-decoration: none;
 }
 
+.mobile {
+  display: none;
+}
+
 .container {
   max-width: 1200px;
 }
@@ -8033,6 +8037,14 @@ footer .item .copy-right p a {
 /* ====================== [ End Footer ] ====================== */
 /* ====================== [ Start Responsive ] ====================== */
 @media screen and (max-width: 991px) {
+  .mobile {
+    display: none;
+  }
+
+  .desktop {
+    display: block;
+  }
+
   .bg-img {
     background-position: center !important;
   }
@@ -8417,6 +8429,14 @@ footer .item .copy-right p a {
 }
 
 @media screen and (max-width: 767px) {
+  .mobile {
+    display: none;
+  }
+
+  .desktop {
+    display: block;
+  }
+
   .sm-mb10 {
     margin-bottom: 10px;
   }
@@ -8809,6 +8829,14 @@ footer .item .copy-right p a {
 }
 
 @media screen and (max-width: 480px) {
+  .mobile {
+    display: block;
+  }
+
+  .desktop {
+    display: none;
+  }
+
   .hamenu .cont-info {
     display: none;
   }
